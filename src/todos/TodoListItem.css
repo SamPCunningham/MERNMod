@@ -12,4 +12,8 @@
     border: 1px solid;
     border-color: #54b948;
     border-radius: 10px 10px 10px 0px;
+    margin-top: 8px;
+    padding: 16px;
+    position: relative;
+    box-shadow: 0 4px 8px grey;
 }
